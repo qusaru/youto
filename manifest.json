@@ -1,0 +1,19 @@
+{
+	"app":
+	{
+		"background":
+		{
+			"scripts": ["background.js"]
+		}
+	},
+	"description": "Multimedia player",
+	"icons":
+	{
+		"16": "16.png",
+		"48": "128.png",
+		"128": "128.png"
+	},
+	"manifest_version": 2,
+	"name": "YouTo",
+	"version": "0"
+}
